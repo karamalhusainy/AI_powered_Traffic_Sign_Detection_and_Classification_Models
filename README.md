@@ -1,4 +1,4 @@
-# s-Classification-and-Detection-Sign-Traffic-powered-AI-
+# AI-powered Traffic Sign Detection and Classification Models
 
 Traffic sign recognition is a crucial task in autonomous driving systems and advanced driver assistance 
 systems (ADAS). Computer vision methods are varied in terms of accuracy and time taken to detect. Also, 
